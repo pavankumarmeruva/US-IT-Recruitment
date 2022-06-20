@@ -1,0 +1,34 @@
+AWS:
+
+"iOS Developer" AND "Android" AND
+ "Continuous Integration" AND "Continuous Delivery"
+ AND "Cloud Development" AND "resiliency" AND "security"
+ 
+  Project Manager:
+"project management" AND "process flows"  
+AND "RACI diagrams" AND "stakeholders"
+
+AWS: "iOS Developer" AND "Android" AND "Continuous Integration"
+AND "Continuous Delivery" AND "Cloud Development" AND "resiliency" AND "security"
+ 
+Project Manager: "project management" AND "process flows" 
+AND "RACI diagrams" AND "stakeholders"
+
+"java full stack developer" and "Agile frameworks" and 
+"Continuous Integration" and "Continuous Delivery" and 
+"Test Driven Development" and "Cloud Development" and "resiliency" and "security" and
+"Java 8" and "Spring Framework" and "Microservices" and "API and"Kafka"
+
+Database developer:
+("Database developer" or "pl/sql developer") AND ("Oracle 19C") AND ("Oracle Database") AND
+("Agile" or "Agile frameworks") AND ("Tableau") AND ("Cognos")
+
+Core Java
+"Core java" AND ("spring" OR "springboot" OR "Sql") AND 
+("Continuous Integration" OR "Continuous Delivery" OR "Cloud Development") AND 
+("agile" OR "agile framework")
+
+
+
+
+
